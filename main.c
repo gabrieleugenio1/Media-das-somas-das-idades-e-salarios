@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #include <stdio.h>
 #include "function.h"
 /*Faça um programa que leia n pessoas solicitando dados como:idade,salário
